@@ -1,3 +1,5 @@
+## Mini Virtual Store Clone
+
 Project developed during the course "Complete Webmaster" given by Danki Code.
 
 It is a simple Virtual Store, pretty basic
