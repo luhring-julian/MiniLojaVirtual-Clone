@@ -1,3 +1,5 @@
-Projeto desenvolvido durante o Curso Webmaster Completo da Danki Code
+Project developed during the course "Complete Webmaster" given by Danki Code.
 
-O estilo da página é autoral.
+It is a simple Virtual Store, pretty basic
+
+The CSS was not the original from the project, becoming 100% authoral
